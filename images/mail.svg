@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.326" height="12.436" viewBox="0 0 16.326 12.436">
+  <g id="mail" transform="translate(0 -61)" opacity="0.4">
+    <g id="Group_222" data-name="Group 222" transform="translate(0.82 61)">
+      <g id="Group_221" data-name="Group 221">
+        <path id="Path_306" data-name="Path 306" d="M39.792,61H26.336a1.418,1.418,0,0,0-.615.144l7.311,7.311L34.67,66.88h0l5.736-5.736A1.418,1.418,0,0,0,39.792,61Z" transform="translate(-25.721 -61)"/>
+      </g>
+    </g>
+    <g id="Group_224" data-name="Group 224" transform="translate(10.784 61.82)">
+      <g id="Group_223" data-name="Group 223">
+        <path id="Path_307" data-name="Path 307" d="M343.611,86.728l-5.4,5.4,5.4,5.4a1.419,1.419,0,0,0,.144-.615V87.343A1.418,1.418,0,0,0,343.611,86.728Z" transform="translate(-338.213 -86.728)"/>
+      </g>
+    </g>
+    <g id="Group_226" data-name="Group 226" transform="translate(0 61.82)">
+      <g id="Group_225" data-name="Group 225">
+        <path id="Path_308" data-name="Path 308" d="M.144,86.721A1.418,1.418,0,0,0,0,87.336V96.9a1.419,1.419,0,0,0,.144.615l5.4-5.4Z" transform="translate(0 -86.721)"/>
+      </g>
+    </g>
+    <g id="Group_228" data-name="Group 228" transform="translate(0.82 67.894)">
+      <g id="Group_227" data-name="Group 227">
+        <path id="Path_309" data-name="Path 309" d="M35,277.211l-1.639,1.575a.478.478,0,0,1-.676,0l-1.575-1.575-5.4,5.4a1.419,1.419,0,0,0,.615.144H39.785a1.418,1.418,0,0,0,.615-.144Z" transform="translate(-25.714 -277.211)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="118.527" height="107.658" viewBox="0 0 118.527 107.658">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_311" data-name="Path 311" d="M59.263,0c32.73,0,59.263,24.1,59.263,53.829s-26.533,53.829-59.263,53.829S0,83.558,0,53.829,26.533,0,59.263,0Z" transform="translate(916.737 205.171)" fill="#f4c833"/>
+    </clipPath>
+  </defs>
+  <g id="yellow_half-circle" data-name="yellow half-circle" transform="translate(-916.737 -205.171)" clip-path="url(#clip-path)">
+    <path id="Rectangle_413" data-name="Rectangle 413" d="M0,0H270a0,0,0,0,1,0,0V195a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" transform="translate(709 64)" fill="#f4c833"/>
+    <path id="Path_312" data-name="Path 312" d="M59.263,0c32.73,0,59.263,24.1,59.263,53.829s-26.533,53.829-59.263,53.829S0,83.558,0,53.829,26.533,0,59.263,0Z" transform="translate(671.737 38.171)" fill="#f4c833"/>
+  </g>
+</svg>
